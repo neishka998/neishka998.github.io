@@ -129,9 +129,9 @@ section {
     text-decoration: none;
     font-size: 1.8rem;
     color: #fff;
-    background-color: #37b8d2;
+    background-color: #3a9aae;
     padding: 1.5rem 4rem;
-    border: 1px solid #37b8d2;
+    border: 1px solid #3a9aae;
     border-radius: 10rem;
     box-shadow: 0 1rem 2rem rgba(0,0,0,.17);
     transition: all .2s;
@@ -215,7 +215,7 @@ section {
     height: 3rem;
     width: 3rem;
     border-radius: 50%;
-    background: #195e6b;
+    background: #08829b;
     background-size: cover;
     background-position: 50%;
     z-index: 100;
@@ -261,7 +261,7 @@ section {
     display: inline-block;
     padding: 1rem 2rem;
     text-transform: uppercase;
-    color: #91abaa;
+    color: #bbd5d4;
     font-size: 2.4rem;
     text-decoration: none;
     transition: all .2s
@@ -429,7 +429,7 @@ section {
 
 .popup__contact-info {
     background: #293335;
-    color: #91abaa;
+    color: #bbd5d4;
     margin-top: 2rem;
     padding: 2rem 1rem 1rem
 }
@@ -446,7 +446,7 @@ section {
 }
 
 .popup__contact-info a {
-    color: #91abaa!important;
+    color: #bbd5d4!important;
     text-decoration: none
 }
 
@@ -662,8 +662,8 @@ section {
 }
 
 .footer {
-    background: #293335;
-    color: #91abaa;
+    background: #08839bc1;
+    color: #d7eeed;
     padding: 5rem 5rem 0
 }
 
@@ -748,7 +748,7 @@ section {
 }
 
 .footer .number {
-    color: #91abaa!important;
+    color: #bbd5d4!important;
     margin: 2rem 0 0;
     font-size: 1.8rem;
     text-decoration: none
