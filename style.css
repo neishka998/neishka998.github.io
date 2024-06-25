@@ -428,7 +428,7 @@ section {
 }
 
 .popup__contact-info {
-    background: #293335;
+    background: #2d626d;
     color: #bbd5d4;
     margin-top: 2rem;
     padding: 2rem 1rem 1rem
@@ -662,8 +662,8 @@ section {
 }
 
 .footer {
-    background: #08839bc1;
-    color: #d7eeed;
+    background: #2d626d;
+    color: #bbd5d4;
     padding: 5rem 5rem 0
 }
 
